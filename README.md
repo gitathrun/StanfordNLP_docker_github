@@ -38,6 +38,10 @@ There are two Jupyter Notebook in the Repo, provide the demo code for the usage 
 
 -  tftwdockerhub/stanfordNLP-gpu:latest
 
+## Binder test ##
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gitathrun/StanfordNLP_docker_github/master?filepath=https%3A%2F%2Fgithub.com%2Fgitathrun%2FStanfordNLP_docker_github%2Fblob%2Fmaster%2FstanfordNLP_demo.ipynb)
+
 ## Usage ##
 
 on dsvm-gpu virtual machines
